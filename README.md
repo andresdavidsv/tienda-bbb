@@ -1,5 +1,6 @@
 
 Clonar el repositorio,
+Se debetener en cuenta, que el proyecto cuenta con una imagen de docker, por lo que es necesario tener habilitado un lector de imagen docker en la maquina.
 
 #Para inicializar el Docker:
 
