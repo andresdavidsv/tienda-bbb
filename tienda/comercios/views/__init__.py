@@ -1,0 +1,1 @@
+from .comercios import *
